@@ -1,0 +1,20 @@
+{
+  "name": "dat156",
+  "version": "1.0.0",
+  "description": "Blogg for DAT156",
+  "repository": "https://github.com/181192/DAT156",
+  "author": "181192",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "prod": "vuepress build"
+  },
+  "dependencies": {
+    "promise": "^8.0.2",
+    "vue-sidebar-generator": "^1.0.3",
+    "vuepress": "^0.14.8"
+  },
+  "resolutions": {
+    "terser": "3.14.1"
+  }
+}
