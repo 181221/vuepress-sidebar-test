@@ -3,8 +3,8 @@ const Sidebar = require("vue-sidebar-generator");
 const init = () => {
   let sidebar = Sidebar.autoSidebar();
   return {
-    title: "DAT156",
-    base: "/DAT156/",
+    title: "vuepress-sidebar-test",
+    base: "/vuepress-sidebar-test/",
     description: "Praksis i arbeidslivet for data @ stacc",
     themeConfig: {
       nav: [
